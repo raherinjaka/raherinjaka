@@ -1,8 +1,7 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&duration=3000&pause=1000&color=1BA0D7&width=550&lines=raherinjaka;Web+%26+Game+Dev;Systems+%26+Networks" alt="Typing SVG" />
+# RAHtok
+### Web & Game Developer | Systems & Networks
 
 ---
-
-Étudiant en Informatique / Développeur Web & Mobile
 
 - **Développement Web** : Conception d'applications modernes.
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
@@ -12,7 +11,6 @@
 
 - **Systèmes & Réseaux** : Administration et infrastructures.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" /> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-
 ---
 
 ### 📊 Mes Statistiques GitHub
