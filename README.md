@@ -1,4 +1,6 @@
-# Salut ! Je suis raherinjaka 👋
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=600&duration=3000&pause=1000&color=1BA0D7&width=550&lines=raherinjaka;Web+%26+Game+Dev;Systems+%26+Networks" alt="Typing SVG" />
+
+---
 
 Étudiant en Informatique / Développeur Web & Mobile
 
