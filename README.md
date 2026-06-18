@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut ! Je suis raherinjaka 👋
 
-<!--
-**raherinjaka/raherinjaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Informatique / Développeur Web & Mobile
 
-Here are some ideas to get you started:
+- 🚀 Je travaille actuellement sur des projets Next.js, React et Tailwind CSS.
+- 🎮 J'aime aussi le développement de jeux vidéo (Godot Engine / GDScript).
+- 🛠️ J'adore configurer des réseaux et administrer des systèmes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Mes Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raherinjaka&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub de raherinjaka" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raherinjaka&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="180" />
+</p>
